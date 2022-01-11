@@ -33,7 +33,7 @@ Run (npm start)
 
 ## Deployed Link
 
-[Click Here!](https://drive.google.com/file/d/1x09LRCLRRAigZa8X_GE28AKoMZK0zM9H/view?usp=sharing)
+[Click Here!](https://van-text-editor.herokuapp.com/)
 
 ## Contact
 
